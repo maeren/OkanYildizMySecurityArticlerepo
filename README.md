@@ -139,7 +139,7 @@ Stay updated with the latest security insights:
 
 ## ⚖️ License & Usage
 
-**Copyright © [Year] Okan Yıldız. All Rights Reserved.**
+**Copyright © 2025 Okan YILDIZ. All Rights Reserved.**
 
 ### Terms of Use:
 - ✅ **Educational purposes** - Free to use for learning and research
